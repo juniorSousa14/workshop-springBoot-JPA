@@ -1,0 +1,8 @@
+package com.JuniorSousa.webServices.repositories;
+
+import com.JuniorSousa.webServices.entities.Category;
+import com.JuniorSousa.webServices.entities.User;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface CategoryRepository extends JpaRepository<Category, Long> {
+}
