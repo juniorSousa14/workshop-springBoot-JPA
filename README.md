@@ -59,7 +59,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente de de
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/juniorSousa14/workshop-springboot-mongodb.git
+   git clone https://github.com/juniorSousa14/workshop-springBoot-JPA.git
    ```
 
 2. **Crie o banco de dados no PostgreSQL:**
